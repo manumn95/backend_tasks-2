@@ -1,0 +1,22 @@
+{
+  "name": "hall_booking",
+  "version": "1.0.0",
+  "description": "To perform hall booking operation using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "express"
+  ],
+  "author": "Manu MN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
